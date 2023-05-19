@@ -35,6 +35,9 @@ Hey there! I'm Philip, a passionate developer based in Barcelona. Welcome to my 
  ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white) 
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=phpmvk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
+
 
 #### Highlights
 
