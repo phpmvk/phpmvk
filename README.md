@@ -15,6 +15,25 @@
 
 Hey there! I'm Philip, a passionate developer based in Barcelona. Welcome to my GitHub profile, where I collaborate, code, and build some of my projects.
 
+#### Tech stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+ ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+ ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+ 
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+ ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+
 #### Highlights
 
 🎯 Currently, I'm dedicated to the development of an exciting project called [YouCoder](https://youcoder.io). YouCoder is a cutting-edge application that enables users to effortlessly record, replay, and share their keystrokes within an integrated development environment (IDE). As the backend developer, I designed and implemented the entire backend architecture. This includes an Express server that seamlessly connects to a PostgreSQL database hosted by Supabase, all written in TypeScript. To ensure code quality, I employ Jest to run comprehensive test suites, and Docker simplifies the sharing of the backend in the deployed version. YouCoder is a live project, and I handle the deployment of both the frontend (using Netlify) and the backend (using fly.io).
