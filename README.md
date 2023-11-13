@@ -23,7 +23,7 @@ Welcome to my GitHub profile, where I collaborate, code, and build some of my pr
  ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white) 
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-
+<!---             
 #### Highlights
 
 🎯 Currently, I'm dedicated to the development of an exciting app called [YouCoder](https://youcoder.io). YouCoder is a cutting-edge application that enables users to effortlessly record, replay, and share their keystrokes within an integrated development environment (IDE). As a full stack developer in the team, I designed and  implemented the entire backend architecture, and was highly involved in the planning stages for frontend component logic. I put together an Express server that seamlessly connects to a PostgreSQL database hosted by Supabase, all written in TypeScript. To ensure code quality, I employ Jest to run comprehensive test suites, and Docker simplifies the sharing of the backend in the deployed version. YouCoder is a live project, and I am responsible for the deployment of both the frontend (using Netlify) and the backend (using fly.io).
@@ -41,3 +41,4 @@ Welcome to my GitHub profile, where I collaborate, code, and build some of my pr
 📬 I'm always open to connecting with fellow developers, exploring new collaborations, or discussing anything related to technology. Please feel free to reach out to me via [email](mailto:phpmvk@gmail.com).
 
 - ⚡ Fun fact: I've lived in 9 different countries!
+  -->
